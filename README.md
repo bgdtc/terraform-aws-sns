@@ -6,7 +6,7 @@ Terraform module which creates sns topic on AWS.
 
 ```hcl
 module "sns-topic" {
-  source     = "genstackio/sns/aws"
+  source     = "bgdtc/sns/aws"
 
   // ...
 }

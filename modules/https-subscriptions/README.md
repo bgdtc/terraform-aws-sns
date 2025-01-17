@@ -6,7 +6,7 @@ Terraform module which creates sns to https subscriptions on AWS.
 
 ```hcl
 module "sns-to-https" {
-  source     = "genstackio/sns/aws//modules/https-subscriptions"
+  source     = "bgdtc/sns/aws//modules/https-subscriptions"
 
   // ...
 }

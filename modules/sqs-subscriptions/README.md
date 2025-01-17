@@ -6,7 +6,7 @@ Terraform module which creates sns to sqs subscriptions on AWS.
 
 ```hcl
 module "sns-to-sqs" {
-  source     = "genstackio/sns/aws//modules/sqs-subscriptions"
+  source     = "bgdtc/sns/aws//modules/sqs-subscriptions"
 
   // ...
 }

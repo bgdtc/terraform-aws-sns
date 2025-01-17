@@ -6,7 +6,7 @@ Terraform module which creates sns topic policy on AWS.
 
 ```hcl
 module "sns-topic-policy" {
-  source     = "genstackio/sns/aws//modules/topic-policy"
+  source     = "bgdtc/sns/aws//modules/topic-policy"
 
   // ...
 }
