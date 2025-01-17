@@ -1,4 +1,4 @@
-# AWS SNS Terraform module
+# AWS SNS Terraform module UPGRADED latest tf versions
 
 Terraform module which creates sns topic on AWS.
 
